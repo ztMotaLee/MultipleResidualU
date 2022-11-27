@@ -1,2 +1,2 @@
 # MultipleResidualU
-A Baseline for later research
+A baseline for later research
